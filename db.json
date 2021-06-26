@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "text": "Examen de covid",
+      "day": "Mañana",
+      "reminder": false,
+      "id": 1
+    }
+  ]
+}
